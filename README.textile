@@ -1,0 +1,18 @@
+README
+
+WikiCluster
+
+* cluster using the Latent Dirichlet algorithm in R
+* for each cluster
+* * export the top N most representative words
+* use Python to find the Wikipedia articles most simlar to the top words in each cluster
+** label the cluster based on these articles
+
+References
+
+* 20 Newsgroups
+* WordNet
+* Yahoo! Search Boss
+* David Carmel, Haggai Roitman, Naama Zwerdling: Enhancing cluster labeling  using Wikipedia, SIGIR 2009:139-146
+* David Carmel, Elad Yom-Tov, Adam Darlow, Dan Pelleg: What makes a query difficult?, SIGIR 2006: 390-397
+
