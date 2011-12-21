@@ -1,14 +1,14 @@
-README
+h1. README
 
-WikiCluster
+h2. WikiCluster
 
 * cluster using the Latent Dirichlet algorithm in R
 * for each cluster
-* * export the top N most representative words
+** export the top N most representative words
 * use Python to find the Wikipedia articles most simlar to the top words in each cluster
 ** label the cluster based on these articles
 
-References
+h2. References
 
 * 20 Newsgroups
 * WordNet
